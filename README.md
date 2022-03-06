@@ -8,6 +8,9 @@
   We will be assisting another Data Scientist by the name of Maria in analyzing data on standardized test scores and school funding. Maria would like us to assist in analyzing this data in order to give insights on performance trends and patterns. These insights will be used by the school’s superintendent and other administrators to make informed decisions at the school and district level. 
 
     After analyzing the data, we have created several Data Frames to better view and process the information. 
+    
+### District Summary
+  ![alt text](https://github.com/quorinne/School_District_Analysis/blob/main/Resources/DistrictSummary.png?raw=true) 
 
 ### Average Math Score by grade
   ![alt text](https://github.com/quorinne/School_District_Analysis/blob/main/Resources/MathbyGrade.png?raw=true) 
