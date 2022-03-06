@@ -5,13 +5,16 @@
 # Overview of School District Analysis
 
 
-  We will be assisting another Data Scientist by the name of Maria in analyzing data on standardized test scores and school funding. Maria would like us to assist in analyzing this data in order to give insights on performance trends and patterns. These insights will be used by the school’s superintendent and other administrators to make informed decisions at the school and district level. 
+  We will be assisting another Data Scientist by the name of Maria in analyzing data on standardized test scores and school funding. Maria would like us to assist in analyzing this data in order to give insights on performance trends and patterns. These insights will be used by the school’s superintendent and other administrators to make informed decisions at the school and district level. According to the Data Frame below there are 15 schools within the district with a total of 39,170 students. The total budget for all schools within the district is $24,649,420.00. A total of 70 points is needed to pass the reading and math section for these standardized tests. The average math score is 78.9 and the average reading score is 81.9. The percentage of students passing math is 74.8% while the percentage passing reading is 85.7% and the percentage passing both is 64.9%. 
 
-    After analyzing the data, we have created several Data Frames to better view and process the information. 
+
     
 ### District Summary
   ![alt text](https://github.com/quorinne/School_District_Analysis/blob/main/Resources/DistrictSummary.png?raw=true) 
 
+
+    After analyzing the data, we have created several Data Frames to better view and process the information. 
+    
 ### Average Math Score by grade
   ![alt text](https://github.com/quorinne/School_District_Analysis/blob/main/Resources/MathbyGrade.png?raw=true) 
   
