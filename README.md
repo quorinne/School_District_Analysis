@@ -30,7 +30,14 @@
 ![alt text](https://github.com/quorinne/School_District_Analysis/blob/main/Resources/DistrictBeforeR.png?raw=true) 
 
  ## District Summary
- 
+     * Average math goes from  81.9 to 78.9 
+     * Average reading stays at 81.9
+     * Passing math percentage goes from to 75.0% to 74.8% 
+     * Passing reading percentage goes from 85.8% to 85.7%
+     * Overall passing percentage goes from 65.2% to 64.9%
+     * Total school budget and Per Student Budget were not affected by the change of grades.
+     
+ There is very little change after changing the 9th grade reading and math scores from Thomas High School at the district level. The largest change is in Math where there is a 3 point decrease in average scores and a .2% decrease in passing math percentage and a .3% decrease in the overall passing percentage. This indicates that 9th graders at thomas high had higher math and reading scores than 9th graders from most of the other from other high schools.
 
  
  ### Top 5 and Bottom 5 Schools Before Changing 9th Grade Scores
