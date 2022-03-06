@@ -27,7 +27,7 @@
   ![alt text](https://github.com/quorinne/School_District_Analysis/blob/main/Resources/DistrictSummary.png?raw=true) 
 
 ### District Summary Before dropping Scores
-![alt text](https://github.com/quorinne/School_District_Analysis/blob/main/Resources/DistrictBefore.png?raw=true) 
+![alt text](https://github.com/quorinne/School_District_Analysis/blob/main/Resources/DistrictBeforeR.png?raw=true) 
 
  ## District Summary
  
