@@ -19,7 +19,7 @@
 ![alt text](https://github.com/quorinne/School_District_Analysis/blob/main/Resources/ModuleTopBottom5.png?raw=true) 
 
 ### Top 5 and Bottom 5 Schools After Changing 9th Grade Scores
-![alt text](https://github.com/quorinne/School_District_Analysis/blob/main/Resources/ChallengeTopBottom5.png?raw=true) 
+![alt text](https://github.com/quorinne/School_District_Analysis/blob/main/Resources/ChallengeTopBottom5.png?raw=true)
 
 # Results
  
