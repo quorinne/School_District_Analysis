@@ -26,7 +26,7 @@
      *	Average math goes from 83.41% to 83.35%
      *	Average reading goes from 83.85% to 83.89%
      *	Passing math percentage goes from 93.27% to 93.18%
-     *  Passing reading percentage goes from 97.31% to 97.02%
+     *   Passing reading percentage goes from 97.31% to 97.02%
      *	Overall passing percentage goes from 90.95% to 90.63%
      *	Total school budget and Per Student Budget were not affected by the change of grades. 
      *	Thomas High School remains in second place performance wise regardless of 9th grade reading and math scores.
