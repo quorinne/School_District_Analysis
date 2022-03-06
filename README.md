@@ -1,5 +1,5 @@
 # School_District_Analysis
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true) 
+
 
 
 # Overview of School District Analysis
@@ -18,7 +18,7 @@ After analyzing the data, we have created several Data Frames to better view and
 ![alt text](https://github.com/quorinne/School_District_Analysis/blob/main/Resources/ReadingbyGrade.png?raw=true) 
 
 ### School Performance based on budget per student
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true) 
+![alt text](https://github.com/quorinne/School_District_Analysis/blob/main/Resources/SpendingSummary.png?raw=true) 
 
 ### School Performance based on school size
 ![alt text](https://github.com/quorinne/School_District_Analysis/blob/main/Resources/SchoolSize.png?raw=true) 
